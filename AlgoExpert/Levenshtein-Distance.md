@@ -74,3 +74,6 @@ var minDistance = function(word1, word2) {
 };
 ```
 
+### Explanation
+
+https://www.youtube.com/watch?v=We3YDTzNXEk
