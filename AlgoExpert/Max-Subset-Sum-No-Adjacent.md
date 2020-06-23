@@ -42,3 +42,8 @@ function maxSubsetSum(arr) {
 }
 ```
 
+
+
+### Explanation
+
+https://www.youtube.com/watch?v=UtGtF6nc35g
