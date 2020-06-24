@@ -96,3 +96,8 @@ const merge = (l1, l2) => {
 }
 ```
 
+
+
+### Explanation
+
+https://www.youtube.com/watch?v=xRYPjDMSUFw
