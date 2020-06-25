@@ -66,3 +66,8 @@ var rob = function(nums) {
 };
 ```
 
+
+
+### Explanation
+
+https://www.youtube.com/watch?v=xlvhyfcoQa4
