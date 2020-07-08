@@ -121,4 +121,3 @@ var trap = function(height) {
 
 https://www.youtube.com/watch?v=HmBbcDiJapY
 
-https://www.youtube.com/watch?v=XqTBrQYYUcc
