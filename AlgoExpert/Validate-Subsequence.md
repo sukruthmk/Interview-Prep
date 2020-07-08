@@ -66,3 +66,9 @@ var isSubsequence = function(s, t) {
     return seqIndex === s.length;
 };
 ```
+
+
+
+### Alternative Question
+
+https://sebastianmoreno.me/leetcode/2020/06/01/Validate-Subsequence/
