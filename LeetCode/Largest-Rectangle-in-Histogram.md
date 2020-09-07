@@ -5,7 +5,9 @@ Given *n* non-negative integers representing the histogram's bar height where th
  
 
 ![img](https://assets.leetcode.com/uploads/2018/10/12/histogram.png)
-Above is a histogram where width of each bar is 1, given height = `[2,1,5,6,2,3]`.
+Above is a histo
+
+gram where width of each bar is 1, given height = `[2,1,5,6,2,3]`.
 
  
 
