@@ -89,7 +89,7 @@ const operate = (a, b, operator) => {
     case "*": return a*b;
     case "/": return a/b >= 0 ? Math.floor(a/b) : Math.ceil(a/b);
   }
-  // this should not reach in any case
+  // this should not reached in any case
   return 0;
 }
 ```
