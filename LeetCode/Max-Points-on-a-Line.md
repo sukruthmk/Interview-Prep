@@ -45,9 +45,9 @@ https://leetcode.com/problems/max-points-on-a-line/
 
 ### Optimal Solution
 
-Time Complexity: 
+Time Complexity: O(n^2)
 
-Space Complexity: 
+Space Complexity: O(n)
 
 ```js
 /**
