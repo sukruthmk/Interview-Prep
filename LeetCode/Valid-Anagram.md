@@ -46,13 +46,18 @@ Space Complexity: O(n)
  */
 
 var isAnagram = function(s, t) {
+  // anagram should of equal length
   if(s.length != t.length) return false;
   
+  // store the char frequency in a map
   const wordMap = {};
   for(const char of s) {
     wordMap[char] = wordMap[char] + 1 || 1;
   }
   
+  // decrement the frequency count for each char in t
+  // if char in wordMap is 0 or doesn't exists
+  // then it's not an anagram of s
   for(const char of t) {
     if(!wordMap[char]) {
       return false;
@@ -88,3 +93,4 @@ var isAnagram = function(s, t) {
   return first == second;
 };
 ```
+
